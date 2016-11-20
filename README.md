@@ -1,4 +1,3 @@
 CubeLogics
 ==========
-Ололо я водитель нло 0_о
-Хуепутоло
+Rubic's cube solver
